@@ -1,4 +1,5 @@
 ## Hi, I'm Piotr Ziaja 👋
+I am a Geospatial Technician and Junior Software Tester.
 
 <!--
 **piozia98/piozia98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
