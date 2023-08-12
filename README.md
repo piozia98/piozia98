@@ -1,4 +1,4 @@
-### Hi, I'm Piotr Ziaja 👋
+## Hi, I'm Piotr Ziaja 👋
 
 <!--
 **piozia98/piozia98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Tools & technologies
+### Tools & technologies
 <img src="https://img.shields.io/badge/Git%20-%23F7DF1E.svg?&style=for-the-badge&color=E5B00" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/GitHub%20-%23F7DF1E.svg?&style=for-the-badge&color=F96F5D" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
